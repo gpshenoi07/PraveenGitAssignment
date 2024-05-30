@@ -8,5 +8,6 @@ public class Main
       System.out.println(n + " is Even numbers");
      else
               System.out.println(n + " is odd");
+       System.out.println(n + " is odd numbers");
       }
  }
