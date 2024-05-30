@@ -5,6 +5,7 @@ public class Main
      //checking whether the number is even or odd
      if (n% 2 == 0)
               System.out.println(n + " is Even");
+      System.out.println(n + " is Even numbers");
      else
               System.out.println(n + " is odd");
       }
