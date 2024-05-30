@@ -9,5 +9,6 @@ public class Main
      else
               System.out.println(n + " is odd");
        System.out.println(n + " is odd numbers");
+       System.out.println(n + " is odd numbers");
       }
  }
